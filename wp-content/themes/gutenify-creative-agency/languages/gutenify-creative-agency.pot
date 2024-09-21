@@ -1,0 +1,433 @@
+# Copyright (c) 2024 CodeYatri. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gutenify Creative Agency 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/gutenify-creative-agency\n"
+"Last-Translator: inf@codeyatri.com\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-17T10:44:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: gutenify-creative-agency\n"
+
+#. Theme Name of the theme
+msgid "Gutenify Creative Agency"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://gutenify.com/themes/gutenify-creative-agency"
+msgstr ""
+
+#. Description of the theme
+msgid "Gutenify Creative Agency is modern block-based theme where you can build your own unique looking website by using WordPress Blocks Editor. Gutenify Creative Agency is a multipurpose block based free theme, the theme is built in accordance of Full Site Editing features introduced in WordPress 5.9, which means that all the aspects including colors, typography, and the layout of every single page on your site can be customized to suit your need.The true efficiency of Gutenify Creative Agency Theme lies in its customizability with combination of Gutenify Plugin. With Gutenify Plugin you can create different customized template, you can also use its in-built template kits and then further customize them according to your needs. Furthermore, using different blocks in combination of Gutenify Plugin’s solid additional blocks, each website will garner an exhibit look. With strong typography, and simple design, we want to achieve unique look for every website. Gutenify Plugin offers a wide variety of flexible and easy to use blocks which will make your website in combination with truly unique spectacle. You can create. A single-page website, a blog, a Creative Agency website, a portfolio, a construction site, or an education site, Gutenify Corporate with Gutenify Plugin will help you create something unique which you can truly call yours.Official Support Forum: https://gutenify.com/product-support/"
+msgstr ""
+
+#. Author of the theme
+msgid "Codeyatri"
+msgstr ""
+
+#. Author URI of the theme
+#: patterns/footer-default.php:138
+msgid "https://gutenify.com"
+msgstr ""
+
+#: patterns/feature-banner.php
+msgctxt "Pattern title"
+msgid "Feature Banner"
+msgstr ""
+
+#: patterns/feature-banner.php:15
+msgid "Creative Agency"
+msgstr ""
+
+#: patterns/feature-banner.php:19
+msgid "Best Agency In The Market !"
+msgstr ""
+
+#: patterns/feature-banner.php:23
+msgid "There are many variations of passages available but the majority have suffered alteration in some form, by injected"
+msgstr ""
+
+#: patterns/feature-banner.php:29
+msgid "Explore More"
+msgstr ""
+
+#: patterns/feature-video.php
+msgctxt "Pattern title"
+msgid "Feature Video"
+msgstr ""
+
+#: patterns/feature-video.php:30
+msgid "\" Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Facilisis sed odio morbi quis commodo."
+msgstr ""
+
+#: patterns/feature-video.php:34
+msgid "Mical Jaction"
+msgstr ""
+
+#: patterns/feature-video.php:38
+msgid "CEO / Founder"
+msgstr ""
+
+#: patterns/feature-video.php:53
+msgid "How Can I Help You"
+msgstr ""
+
+#: patterns/feature-video.php:59
+msgid "Our mission is to power the future"
+msgstr ""
+
+#: patterns/feature-video.php:65
+msgid "Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Facilisis sed odio morbi quis commodo.  Eget nulla facilisi etiam dignissim diam quis enim. Arcu felis bibendum ut tristique."
+msgstr ""
+
+#: patterns/feature-video.php:70
+#: patterns/hero-content.php:49
+msgid "Market &amp; Business Research"
+msgstr ""
+
+#: patterns/feature-video.php:74
+#: patterns/hero-content.php:53
+msgid "Digital Consultancy &amp; Growth"
+msgstr ""
+
+#: patterns/feature-video.php:80
+msgid "Get Started"
+msgstr ""
+
+#: patterns/features.php
+msgctxt "Pattern title"
+msgid "Features"
+msgstr ""
+
+#: patterns/features.php:22
+msgid "Digital Marketing"
+msgstr ""
+
+#: patterns/features.php:26
+#: patterns/features.php:50
+#: patterns/features.php:74
+#: patterns/features.php:98
+msgid "Lorem ipsum dolor sit amet, consectetur notted"
+msgstr ""
+
+#: patterns/features.php:30
+#: patterns/features.php:54
+#: patterns/features.php:78
+#: patterns/features.php:102
+msgid "Know More"
+msgstr ""
+
+#: patterns/features.php:46
+msgid "Branding Strategy"
+msgstr ""
+
+#: patterns/features.php:70
+msgid "Web Development"
+msgstr ""
+
+#: patterns/features.php:94
+msgid "Online Advertising"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:14
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:19
+msgid "Nsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr ""
+
+#: patterns/footer-default.php:34
+msgid "Quick links"
+msgstr ""
+
+#: patterns/footer-default.php:40
+#: patterns/footer-default.php:66
+msgid "Our Services"
+msgstr ""
+
+#: patterns/footer-default.php:44
+#: patterns/footer-default.php:70
+msgid "Our Portfolio"
+msgstr ""
+
+#: patterns/footer-default.php:48
+#: patterns/footer-default.php:74
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer-default.php:52
+#: patterns/footer-default.php:78
+msgid "News"
+msgstr ""
+
+#: patterns/footer-default.php:60
+msgid "About Company"
+msgstr ""
+
+#: patterns/footer-default.php:86
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/footer-default.php:97
+msgid "New South Wales, Australia"
+msgstr ""
+
+#: patterns/footer-default.php:107
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:117
+msgid "123 3456679"
+msgstr ""
+
+#: patterns/footer-default.php:127
+msgid "10 AM - 5 PM"
+msgstr ""
+
+#: patterns/footer-default.php:138
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:138
+msgid "Gutenify"
+msgstr ""
+
+#: patterns/footer-default.php:138
+msgid "and"
+msgstr ""
+
+#: patterns/footer-default.php:138
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer-default.php:138
+msgid "WordPress."
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:32
+msgid "Get A Quote"
+msgstr ""
+
+#: patterns/hero-content.php
+msgctxt "Pattern title"
+msgid "Hero Content"
+msgstr ""
+
+#: patterns/hero-content.php:15
+msgid "25 +"
+msgstr ""
+
+#: patterns/hero-content.php:19
+msgid "Years"
+msgstr ""
+
+#: patterns/hero-content.php:24
+msgid "Experience"
+msgstr ""
+
+#: patterns/hero-content.php:34
+msgid "PROBLEM SOLVE"
+msgstr ""
+
+#: patterns/hero-content.php:39
+msgid "We Help Innovators Bring Their Business To Life"
+msgstr ""
+
+#: patterns/hero-content.php:43
+msgid "Curabitur sodales dui vitae nisi semper, quis leo lobrtis n sit amet ultricies est mollis."
+msgstr ""
+
+#: patterns/hero-content.php:59
+msgid "Explore Services"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:16
+msgid "From Our Blog Posts"
+msgstr ""
+
+#: patterns/latest-news.php:22
+msgid "All the Latest Agency Stories"
+msgstr ""
+
+#: patterns/latest-news.php:57
+msgid "View More"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:34
+msgid "Categorise"
+msgstr ""
+
+#: patterns/primary-sidebar.php:52
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:70
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:88
+msgid "Social Links"
+msgstr ""
+
+#: patterns/project.php
+msgctxt "Pattern title"
+msgid "Project"
+msgstr ""
+
+#: patterns/project.php:14
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/project.php:19
+msgid "Our Feature Works"
+msgstr ""
+
+#: patterns/project.php:36
+msgid "Big Ideas"
+msgstr ""
+
+#: patterns/project.php:48
+msgid "Consulting"
+msgstr ""
+
+#: patterns/project.php:64
+msgid "Marketing"
+msgstr ""
+
+#: patterns/project.php:80
+msgid "Advertising"
+msgstr ""
+
+#: patterns/service.php
+msgctxt "Pattern title"
+msgid "Service"
+msgstr ""
+
+#: patterns/service.php:12
+msgid "Best Services"
+msgstr ""
+
+#: patterns/service.php:17
+msgid "We Can Offer For You !"
+msgstr ""
+
+#: patterns/service.php:32
+msgid "Digital Strategy"
+msgstr ""
+
+#: patterns/service.php:37
+#: patterns/service.php:61
+#: patterns/service.php:85
+#: patterns/service.php:111
+#: patterns/service.php:135
+#: patterns/service.php:159
+msgid "Lorem is simply dummy text of the printing and typesetting."
+msgstr ""
+
+#: patterns/service.php:41
+#: patterns/service.php:65
+#: patterns/service.php:89
+#: patterns/service.php:115
+#: patterns/service.php:139
+#: patterns/service.php:163
+msgid "View Details"
+msgstr ""
+
+#: patterns/service.php:56
+msgid "UX Designs"
+msgstr ""
+
+#: patterns/service.php:80
+msgid "UI Designs"
+msgstr ""
+
+#: patterns/service.php:106
+msgid "Social Media"
+msgstr ""
+
+#: patterns/service.php:130
+msgid "Design Concept"
+msgstr ""
+
+#: patterns/service.php:154
+msgid "Diverse Approach"
+msgstr ""
+
+#: patterns/team.php
+msgctxt "Pattern title"
+msgid "Team"
+msgstr ""
+
+#: patterns/team.php:15
+msgid "Power full Team"
+msgstr ""
+
+#: patterns/team.php:20
+msgid "The Management Team"
+msgstr ""
+
+#: patterns/team.php:37
+msgid "Startups"
+msgstr ""
+
+#: patterns/team.php:41
+msgid "Chief Marketing Officer"
+msgstr ""
+
+#: patterns/team.php:65
+msgid "Justin Hammer"
+msgstr ""
+
+#: patterns/team.php:69
+msgid "Founder/ CEO"
+msgstr ""
+
+#: patterns/team.php:93
+msgid "Ashley Hardy"
+msgstr ""
+
+#: patterns/team.php:97
+msgid "VP Sales and Marketing"
+msgstr ""
+
+#: patterns/team.php:121
+msgid "Clark Roberts"
+msgstr ""
+
+#: patterns/team.php:125
+msgid "Chief Finance Officer"
+msgstr ""
